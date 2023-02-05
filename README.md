@@ -2,7 +2,7 @@
 
 ##
 
-My motivation to build this Daily work day scheduler application responsive and eventful.
+My motivation was to build this Daily work day scheduler application responsive and eventful.
 
 I build this Daily workday scheduler application for users to save events for each hour of the day so that they can plan accordingly. Furthermore, i build this application to showcase my skills on my portfolio which will help me to build my career as a developer in a real-life.
 
@@ -14,8 +14,9 @@ When a user will click the time-block it will generate an event listener where y
 
 By building this application i learned some new skills which contains:
 
-jQuery skills to feature application dynamically.
-I learned how to use moment day js library in application which shows user current day and time.
+1) jQuery skills to feature application dynamically.
+
+2) I learned how to use moment day js library in application which shows user current day and time.
 
 
 ## Installation
