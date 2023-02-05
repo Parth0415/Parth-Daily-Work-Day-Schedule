@@ -1,7 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  background-color: gray;
+  background-color: rgb(41, 63, 83);
+  color: white;
 }
 /* giving style to fonts by calling it by there class*/
 /* aligning content to center*/
