@@ -7,11 +7,11 @@ $(function () {
     "hour-10",
     "hour-11",
     "hour-12",
-    "hour-01",
-    "hour-02",
-    "hour-03",
-    "hour-04",
-    "hour-05",
+    "hour-13",
+    "hour-14",
+    "hour-15",
+    "hour-16",
+    "hour-17",
   ];
 
   //var mainContainerBox = document.getElementById("mainContainerBox");
@@ -19,7 +19,7 @@ $(function () {
 
   $("#currentDay").html(moment().format("MMMM Do YYYY HH:mm"));
 
-  var currentHour = "hour-" + `${moment().format("hh")}`;
+  var currentHour = "hour-" + `${moment().hour()}`;
 
   //let hourContainer  = document.getElementsByClassName("row time-block")[0];
 
