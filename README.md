@@ -24,7 +24,7 @@ By building this application i learned some new skills which contains:
 https://parth0415.github.io/Parth-Daily-Work-Day-Scheduler/
 
 ## Usage
-![Project](./assets/images/Screenshot%20of%20scheduler%20application%20final.png "Project4")
+![Project](./assets/images/new%20screenshot.png "Project4")
 
 ## LICENSE
 Please refer to the LICENSE in the repository.
